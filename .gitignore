@@ -1,0 +1,4 @@
+*.csv
+tl_2010_36_zcta510/
+.DS_Store
+.ipynb_checkpoints
